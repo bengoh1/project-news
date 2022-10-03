@@ -1,10 +1,7 @@
 # Capstone project - news classifier
 <br>
 
-![SGUSDA1](https://user-images.githubusercontent.com/10804109/193530075-573b7195-c547-415c-b2b9-fc291744a97e.jpg)
 
-
-<br>
 <br>
 
 ![Python](https://user-images.githubusercontent.com/10804109/193534656-68d235c5-0b38-489a-bbfa-1c9d8d01da42.jpg)
