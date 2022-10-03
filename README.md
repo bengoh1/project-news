@@ -1,7 +1,7 @@
 # Capstone project - news classifier
 <br>
 
-
+![fakenews](https://user-images.githubusercontent.com/10804109/193522570-d4d41afd-fce3-4878-b21d-71525477af19.gif)
 <br>
 
 ![Python](https://user-images.githubusercontent.com/10804109/193534656-68d235c5-0b38-489a-bbfa-1c9d8d01da42.jpg)
@@ -21,4 +21,4 @@ and 1 unsupervised learning model explored was:-
 
 <br>
 
-![fakenews](https://user-images.githubusercontent.com/10804109/193522570-d4d41afd-fce3-4878-b21d-71525477af19.gif)
+
