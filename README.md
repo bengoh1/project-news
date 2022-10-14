@@ -1,4 +1,5 @@
 # Capstone project - news classifier
+Machine Learning project
 <br>
 
 ![fakenews](https://user-images.githubusercontent.com/10804109/193522570-d4d41afd-fce3-4878-b21d-71525477af19.gif)
