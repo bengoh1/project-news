@@ -10,7 +10,7 @@ Machine Learning project
 
 <br>
 
-This repository contains the final capstone project for my SG United Skills Associate Data Analyst program.  The objective of this project was to showcase the use of machine learning models to classify news as either real or fake on Jupyter Notebook. The 5 supervised learning models explored were:-
+This repository contains the Machine Learning capstone project for my SGUSDA program.  The objective of this project was to showcase the use of machine learning models to classify news as either real or fake on Jupyter Notebook. The 5 supervised learning models explored were:-
  - Logistic Regression
  - Naive Bayes
  - Support Vector Machine
